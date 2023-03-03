@@ -33,3 +33,31 @@ export function getSortedPostsData() {
         }
     });
 }
+
+export function getAllPostIds() {
+    const fileNames = fs.readdirSync(postsDirectory);
+
+    // Returns an array that looks like this:
+    // [
+    //   {
+    //     params: {
+    //       id: 'ssg-ssr'
+    //     }
+    //   },
+    //   {
+    //     params: {
+    //       id: 'pre-rendering'
+    //     }
+    //   }
+    // ]
+    
+    // This function only read file names and return an array of objects with params property
+    return fileNames.map((fileName) => {
+        return {
+            params: {
+                id: fileName.replace(/\.md$/, ''),
+            },
+        };
+    });
+}
+
