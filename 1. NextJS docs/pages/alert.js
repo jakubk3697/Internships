@@ -1,6 +1,5 @@
 import styles from '../styles/components/alert.module.css';
 import { clsx } from 'clsx';
-import { fetchHelloMessage } from './api/hello';
 
 export default function Alert({ children, type }) {
 
