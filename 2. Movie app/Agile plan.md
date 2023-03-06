@@ -87,6 +87,7 @@ Any user can see recommended / similar movies after all movie details :three:
 **Stories:**
 
 Any user can sign-in with Google account :eight:
+
 Any registered user can sign-in with email and password :six:
 
 **8. Error page**
