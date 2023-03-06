@@ -1,5 +1,7 @@
 # **_Release 0.1.0_**
 
+https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0
+
 ### **Initiative -** create a list of all required options in application
 
 #### **Complexity** of user stories scale is :one: - :keycap_ten: (higher score more difficult story)
