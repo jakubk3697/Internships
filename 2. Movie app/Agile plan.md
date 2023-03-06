@@ -90,7 +90,7 @@ Any user can see recommended / similar movies after all movie details :three:
 
 **Stories:**
 
-Any user can sign-in with Google account :eight:
+Any user can sign-in with third-party application  :eight:
 
 Any registered user can sign-in with login and password :six:
 
@@ -108,7 +108,13 @@ Page contains error message and button to redirect to the main page :two:
 
 Any user can see header with logo and sign-in button :two:
 
-After clicking on logo, any user is redirected to the main page :two:
+After clicking on logo, any user is redirected to the main page with a smooth scroll to the top of the page :two:
+
+**10. Footer**
+
+**Stories:**
+
+Any user can see footer with small logo and links to social media :two:
 
 ## **Personas**
 
