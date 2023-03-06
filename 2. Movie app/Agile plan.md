@@ -62,7 +62,7 @@ Any user is informed when application is fetching data from the server with Load
 
 **Stories:**
 
-Any user can create a profile with personal info and a profile photo :eight:
+Any user can create a profile with personal info and a profile photo :six:
 
 Any user can view their favorite movies and comments :six:
 
@@ -81,6 +81,29 @@ Third section is the gallery with snapshoots from the movie. You can scroll thro
 Any user can click button to get back to the main page with proper route. :two:  
 
 Any user can see recommended / similar movies after all movie details :three:
+
+**7. Authentication**
+
+**Stories:**
+
+Any user can sign-in with Google account :eight:
+Any registered user can sign-in with email and password :six:
+
+**8. Error page**
+
+**Stories:**
+
+Any user can see error page when he tries to access a page that doesn’t exist :two:
+
+Page contains error message and button to redirect to the main page :two:
+
+**9. Header**
+
+**Stories:**
+
+Any user can see header with logo and sign-in button :two:
+
+After clicking on logo, any user is redirected to the main page :two:
 
 ## **Personas**
 
