@@ -72,15 +72,15 @@ Logged-in user can edit personal data in his profile stored in database :six:
 
 **Stories:**
 
-First main section contains: poster of the movie, title, tagline, description, genres, duration and release date
+First main section contains: poster of the movie, title, tagline, description, genres, duration and release date :three:
 
-In second section all users can see actors with name, movie name and portrait
+In second section all users can see actors with name, movie name and portrait :three:
 
-Third section is the gallery with snapshoots from the movie. You can scroll through pictures and maximize selected one
+Third section is the gallery with snapshoots from the movie. You can scroll through pictures and maximize selected one :four:
 
-User can click back button with will be icon “ß”. After click user will be redirected to the main page.
+Guest user can click button to get back to the main page with proper route. :two:  
 
-Guest user can see recommended / similar movies after all movie details
+Guest user can see recommended / similar movies after all movie details :three:
 
 ## **Personas**
 
