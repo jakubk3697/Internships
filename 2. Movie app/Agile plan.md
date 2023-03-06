@@ -2,7 +2,7 @@
 
 ### **Initiative -** create a list of all required options in application
 
-#### **Complexity** of user stories scale is **1-10** (higher score more difficult story)
+#### **Complexity** of user stories scale is :one: - :keycap_ten: (higher score more difficult story)
 
 ## **Epics**
 
@@ -10,65 +10,63 @@
 
 **Stories:**
 
-Each movie contains “_Add to favorites” checkbox_, enabled only for logged-in users
+Each movie contains “_Add to favorites” checkbox_, enabled only for logged-in users :four:
 
-When logged-in user click “_Add to favorites”_ checkbox, the movie is assigned to profile
+When logged-in user click “_Add to favorites”_ checkbox, the movie is assigned to profile :seven:
 
-When a guest user clicks the "_Add to favorites_" checkbox, he gets the message "_You must register to add movies to favorites_."
+When a guest user clicks the "_Add to favorites_" checkbox, he gets the message "_You must register to add movies to favorites_." :three:
 
-Guest user can click the movie card and be redirected to the _Details Page_ of  the movie
+Guest user can click the movie card and be redirected to the _Details Page_ of  the movie :two:
 
-Guest user can sort displayed movies by title using sort button in navbar
+Guest user can sort displayed movies by title using sort button in navbar :three:
 
-Guest user can search movies by title
+Guest user can search movies by title :three:
 
-Guest user can see the card with: movie poster, title, genres and rating
+Guest user can see the card with: movie poster, title, genres and rating :four:
 
-Guest user can click _“Load more”_ button to fetch and display more movies
+Guest user can click _“Load more”_ button to fetch and display more movies :three:
 
-Guest user has customized layout for each type of screen
-
-Guest user can view movies on devices with different screen sizes thanks to RWD
+Guest user has customized layout for each type of screen :four: 
 
 **2. Comment**
 
 **Stories:**
 
-Logged-in user can comment a movie which will be kept in database
+Logged-in user can comment a movie which will be kept in database :five:
 
-Admin and moderator can edit or remove the each comment
+Admin and moderator can edit or remove the each comment :six:
 
-Logged-in user can edit or remove own comment
+Logged-in user can edit or remove own comment :five:
 
-Guest user can see title and description of each comment
+Guest user can see title and description of each comment :four:
 
 **3.** **Category**
 
 **Stories:**
 
-Guest user can use navbar button to select displayed movie types (Popular, Now Playing, Top Rated, Upcoming)
+Guest user can use navbar button to select displayed movie types (Popular, Now Playing, Top Rated, Upcoming) :three:
 
-Guest user can use navbar button to select displayed movie genres (Action, Comedy, Drama, Horror, Science Fiction, Thriller)
+Guest user can use navbar button to select displayed movie genres (Action, Comedy, Drama, Horror, Science Fiction, Thriller) :four:
 
-Each category contains its own route path
+Each category contains its own route path :three:
 
 **4. Movie matching engine**
 
 **Stories:**
 
-Guest user can write a prompt in the search bar which will be processed by the latest OpenAI engine and then will get matched movies.
+Guest user can write a prompt in the search bar which will be processed by the latest OpenAI engine and then will get matched movies :seven:
 
-Guest user is informed when application is fetching data from the server with Loader component
+Guest user is informed when application is fetching data from the server with Loader component :three:
 
 **5. User profile**
 
 **Stories:**
 
-Guest user can create a profile with personal info and a profile photo
+Guest user can create a profile with personal info and a profile photo :eight:
 
-Guest user can view their favorite movies and comments
+Guest user can view their favorite movies and comments :six:
 
-Guest user can edit their profile
+Logged-in user can edit personal data in his profile stored in database :six:
 
 **6. Details page**
 
