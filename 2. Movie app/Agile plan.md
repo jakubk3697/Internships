@@ -40,7 +40,7 @@ Logged-in user can edit or remove own comment :five:
 
 Any user can see title and description of each comment :four:
 
-**3.** **Category**
+**3. Category**
 
 **Stories:**
 
@@ -50,13 +50,17 @@ Any user can use navbar button to select displayed movie genres (Action, Comedy,
 
 Each category contains its own route path :three:
 
+Logged-in user can see his favorite movies in the “_Favorites_” category, not visible for guest users :seven:
+
 **4. Movie matching engine**
 
 **Stories:**
 
 Any user can write a prompt in the search bar which will be processed by the latest OpenAI engine and then will get matched movies :seven:
 
-Any user is informed when application is fetching data from the server with Loader component :three:
+Any user can see a list of static question and after answering them, he will get matched movies :four:
+
+Any user is informed when application is fetching data from the server with _Loader_ component :three:
 
 **5. User profile**
 
@@ -88,7 +92,7 @@ Any user can see recommended / similar movies after all movie details :three:
 
 Any user can sign-in with Google account :eight:
 
-Any registered user can sign-in with email and password :six:
+Any registered user can sign-in with login and password :six:
 
 **8. Error page**
 
@@ -110,7 +114,7 @@ After clicking on logo, any user is redirected to the main page :two:
 
 **1. Admin**
 
-a) all permissions
+a) All permissions
 
 **2. Moderator**
 
