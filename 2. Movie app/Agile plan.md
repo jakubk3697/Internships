@@ -36,8 +36,6 @@ Logged-in user can comment a movie which will be kept in database :five:
 
 Admin and moderator can edit or remove the each comment :six:
 
-Logged-in user can edit or remove own comment :five:
-
 Any user can see title and description of each comment :four:
 
 **3. Category**
