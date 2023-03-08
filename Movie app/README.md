@@ -1,10 +1,18 @@
-## Actual plan:
+# Movie app
 
-### LIVE: 
+## Current user stories: 
 https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0
 
+## Preview:
 
-### Preview:
+#### UI/UX  *[Movie App - Miro Table](https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0)*.
+
+**Personas:**
+- _Admin_
+- _Moderator_
+- _Logged-in user_
+- _Guest user_
+
 
 | Epic                  | As a ...            | I can ...                                                                        | So that I ...                                                                                       | Complexity |
 | --------------------- | ------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- |
