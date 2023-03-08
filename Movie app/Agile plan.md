@@ -10,10 +10,23 @@
 
 **Stories:**
 
+Each movie contains “_Add to favorites” checkbox_, enabled only for logged-in users :four:
+
+When logged-in user click “_Add to favorites”_ checkbox, the movie is assigned to profile :seven:
+
+When any user clicks the "_Add to favorites_" checkbox, he gets the message "_You must register to add movies to favorites_." :three:
+
+Any user can click the movie card and be redirected to the _Details Page_ of  the movie :two:
+
+Any user can sort displayed movies by title using sort button in navbar :three:
+
+Any user can search movies by title :three:
+
+Any user can see the card with: movie poster, title, genres and rating :four:
+
 Any user can click _“Load more”_ button to fetch and display more movies :three:
 
 Any user has customized layout for each type of screen :four: 
-
 
 **2. Comment**
 
@@ -23,8 +36,6 @@ Logged-in user can comment a movie which will be kept in database :five:
 
 Admin and moderator can edit or remove the each comment :six:
 
-Logged-in user can edit or remove own comment :five:
-
 Any user can see title and description of each comment :four:
 
 **3. Category**
@@ -32,7 +43,7 @@ Any user can see title and description of each comment :four:
 **Stories:**
 
 Any user can use navbar button to select displayed movie types (Popular, Now Playing, Top Rated, Upcoming) :three:
-    
+
 Any user can use navbar button to select displayed movie genres (Action, Comedy, Drama, Horror, Science Fiction, Thriller) :four:
 
 Each category contains its own route path :three:
