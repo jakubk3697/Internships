@@ -1,12 +1,20 @@
-# Movie app
+## Movie App Repository
+
+https://github.com/jakubk3697/NextJS_MovieApp
+
+## LIVE preview
+
+https://next-js-movie-app-chi.vercel.app/
 
 ## Current user stories: 
 https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0
 
-## Preview:
+## UI/UX  
 
-#### UI/UX  *[Movie App - Miro Table](https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0)*.
+[Movie App - Miro Table](https://docs.google.com/spreadsheets/d/1SqU-IJU4T4qKvtPSp6EYOUUrWP_l_FjiiYU_wb2bsa8/edit#gid=0)
 
+
+--------------------------------------------------------------------------------
 **Personas:**
 - _Admin_
 - _Moderator_
